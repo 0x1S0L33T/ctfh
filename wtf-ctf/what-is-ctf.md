@@ -2,7 +2,7 @@
 
 ### Capture the flag.
 
-From [CTFTIME](https://ctftime.org/ctf-wtf/) CTF is a special kind of information security competition. There are three common types of CTFs: Jeopardy, Attack-Defence, and mixed.
+From [CTFTIME](https://ctftime.org/ctf-wtf/), CTF is a special kind of information security competition. There are three common types of CTFs: Jeopardy, Attack-Defence, and mixed.
 
 These are events consist of a series of challenges that vary in their degree of difficulty, and that require participants to exercise different skill sets to solve. The goal is to solve the challenge and get a flag so you can submit this flag to the CTF server to earn points. You can be a lone wolf or work in a group to attempt to score the highest number of points.
 
